@@ -1,0 +1,4 @@
+dog_and_cat.jpg,cat,a brown-and-white dog and a grey cat
+sofa.jpg,sofa,a grey sofa
+starry_night.jpg,night,dark tree and a town under starry night
+woman_and_dog.jpg,dog,a woman is sitting next to a yellow dog in a golden forest

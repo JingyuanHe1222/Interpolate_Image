@@ -1,0 +1,4 @@
+dog_1.jpg,dog,a brown-and-white dog 
+dog_2.jpg,dog,a white dog
+cat_1.jpg,cat,a grey cat on a table in front of flowers
+cat_2,jpg,cat,a brown cat on the grass

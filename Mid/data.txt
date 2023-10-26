@@ -1,0 +1,8 @@
+backpack_1.jpg,backpack,a woman carrying a pink backpack
+backpack_2.jpg,backpack,a pink packpack
+cartoon_dog.jpg,dog,a cute cartoon dog
+crab.jpg,crab,a red crab
+plushie_1.jpg,plushie,a brown plushie sitting on the grass
+plushie_2.jpg,plushie,a brown plushie sitting in front of river
+rope.jpg,rope,a rope
+tree.jpg,tree,a golden tree
