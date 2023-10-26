@@ -1,0 +1,9 @@
+path, source
+"/Hard/dog_and_cat.jpg", https://www.petspyjamas.com/uploads/2013/06/cat-and-dog.jpg
+"/Hard/woman_and_dog.jpg", https://animalfair.com/wp-content/uploads/2007/10/Young-Mother-and-Dog.jpg
+"/Hard/sofa.jpg", https://th.bing.com/th/id/OIP.GsK2xLlBDMo1bAm2EbRKqAAAAA?pid=ImgDet&rs=1
+"/Hard/starry_night.jpg", https://th.bing.com/th/id/R.98f0b0c14c999ad5d1aeb20a4b9416e9?rik=NZDzm1YAGQ5dFg&pid=ImgRaw&r=0
+"/Mid/Others/crab.jpg", https://th.bing.com/th/id/R.d0d976b0ffd75fef2e5613b9989035e3?rik=3W2t2ehy0KUJyw&pid=ImgRaw&r=0
+"/Mid/Others/tree.jpg", https://wallpapercave.com/wp/0pMys4b.jpg
+"/Mid/rope.jpg", https://i.etsystatic.com/6426484/r/il/0e0f39/1028073602/il_fullxfull.1028073602_k1b7.jpg
+"/Mid/cartoon_dog.jpg", https://th.bing.com/th/id/R.5abb73aa734a1736b1ff47198d5022f3?rik=ZV4Na8REOVmdEg&riu=http%3a%2f%2fimages.wikia.com%2fideas%2fimages%2f2%2f26%2fBeagle_Dog_Cartoon.jpg&ehk=kydWNDKRWhQ8ajSTxcqLMxI2KublxY127xVOaNkveII%3d&risl=&pid=ImgRaw&r=0
