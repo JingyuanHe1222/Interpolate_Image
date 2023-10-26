@@ -22,12 +22,13 @@ class CustomDataset(Dataset):
             with open(data_file, 'r') as f:
                 for line in f:
                     info = line.split(',')
-                    self.image_dataset.append(info[0])
+                    img_path = os.path.join(self.root_dir, set, info[0])
+                    self.image_dataset.append(img_path)
                     self.classes.append(info[1])
                     caption = info[2]
-                    if info[2][-1] == '\n': # get rid of \n
+                    if info[2][-1] == '\n':
                         caption = info[2][:-1]
-                    self.caption.append(caption)
+                    self.caption.append(caption) # get rid of 
         print("dataset built with", len(self.classes), "instances")
         print("get item will return: (img_path, img_class, img_caption)")
         
